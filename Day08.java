@@ -10,11 +10,7 @@ public class Tipedatakaarakter {
         String fakultas = "Teknik";
         String prodi= "Informatika";
         
-        System.out.println("Nama: "+ nama);
-        System.out.println("Kelas: "+ kelas);
-        System.out.println("Fakultas: "+ fakultas);
-        System.out.println("Prodi: "+ prodi);
-  
+           System.out.printf("\nnama: %s \nKelas: %s \nfakultas: %s \nprodi: %s\n", nama, kelas,fakultas, prodi);
     }
     
 }
