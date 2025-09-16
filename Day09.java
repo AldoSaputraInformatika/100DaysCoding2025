@@ -14,7 +14,7 @@ public class DeklarasiInisialisaliUpdateVariabel {
      dengan nilai awal 50 ke 51 ke 54 ke 162 dimana 162
      adalah nilai akhir dari variabel umur
      */
-     
+    
      System.out.println(umur);
 
     }
