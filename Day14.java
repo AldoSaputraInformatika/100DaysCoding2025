@@ -1,6 +1,9 @@
 package day14;
 public class Day14 {
     public static void main(String[] args) {
+       /*Untuk mengkonveri tipe data String ke tipe data primitif itu dengan cara menggunakan fungsi pada java,
+        dengan Syaratnya nilai yang kita masukkan harus sesuai dengan tipe data yang akan mengkonversi */
+       
        String nilai1 = "120";
        String nilai2 = "1200";
        String nilai3 = "1200";
