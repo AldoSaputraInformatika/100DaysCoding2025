@@ -19,8 +19,11 @@ public class Day40 {
             hasil = angka * angka2;
 
         } else if (operator.equals("/")) {
+            if(angka2 != 0){
             hasil = angka / angka2;
-
+            }else{
+                System.out.println("Hasil tidak valid");
+            }
         } else if (operator.equals("%")) {
             hasil = angka % angka2;
         } else {
