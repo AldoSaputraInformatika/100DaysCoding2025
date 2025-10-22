@@ -5,17 +5,17 @@ public class ternary {
         int angka = input.nextInt();
         switch(angka){
             case 1 :
-            System.out.println("Satu");
-            break;
+               System.out.println("Satu");
+               break;
             case 2 :
-            System.out.println("Dua");
-            break;
+               System.out.println("Dua");
+               break;
             case 3 :
-            System.out.println("Tiga");
-            break;
+               System.out.println("Tiga");
+               break;
             default:
-            System.out.println("Tidak valid");
-            break;
+               System.out.println("Tidak valid");
+               break;
         }
         
     }
