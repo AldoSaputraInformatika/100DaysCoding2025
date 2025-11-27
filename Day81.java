@@ -1,0 +1,19 @@
+
+import java.util.Scanner;
+
+public class Day81 {
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println("Masukkan jumlah element: ");
+
+        byte[] array = new byte[5];
+        array[0] = 1;
+        array[1] = 2;
+        array[2] = 3;
+        array[3] = 4;
+        array[4] = 5;
+
+    }
+
+}
