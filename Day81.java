@@ -1,11 +1,6 @@
-
-import java.util.Scanner;
-
 public class Day81 {
 
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        System.out.println("Masukkan jumlah element: ");
 
         int[] array = new int[5];
         array[0] = 1;
@@ -17,4 +12,3 @@ public class Day81 {
     }
 
 }
-
