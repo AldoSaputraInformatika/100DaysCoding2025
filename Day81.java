@@ -7,7 +7,7 @@ public class Day81 {
         Scanner input = new Scanner(System.in);
         System.out.println("Masukkan jumlah element: ");
 
-        byte[] array = new byte[5];
+        int[] array = new int[5];
         array[0] = 1;
         array[1] = 2;
         array[2] = 3;
@@ -17,3 +17,4 @@ public class Day81 {
     }
 
 }
+
